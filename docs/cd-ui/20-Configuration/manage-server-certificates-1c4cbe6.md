@@ -113,5 +113,5 @@ Your CA may add or remove SANs, depending on the kind of certificate product you
 
 The list of server certificates created are displayed and as long as they are active, cannot be deleted. Inactive certificates can be deleted by using the *Delete* button.
 
-You can use the *Activate* button to activate additional SANs or change the TLS configuration for an already activated SAN. Activated SANs can also be deleted by choosing <span class="SAP-icons"></span>\(Delete\).
+You can use the *Activate* button to activate additional SANs or change the TLS configuration for an already activated SAN. Activated SANs can also be deleted by choosing :wastebasket:\(Delete\).
 

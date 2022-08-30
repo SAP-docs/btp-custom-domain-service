@@ -2,7 +2,12 @@
 
 # Contributions to the SAP Custom Domain Service Documentation
 
-Found a mistake in our documentation? Always wanted to add a step in one of our procedures that could save many others much time? Then you're at the right place! All contributions made to the Markdown files in the [docs](docs) directory are reviewed, and if deemed valuable be added to our [official documentation on SAP Help Portal](https://help.sap.com/docs/CUSTOM_DOMAINS?version=Cloud). The easiest way is to start there, and choose _Edit_ to find the right Markdown file to contribute to.
+Found a mistake in our documentation? Always wanted to add a step in one of our procedures that could save many others much time? Then you're at the right place! All contributions made to the Markdown files in the [docs](docs) directory are reviewed, and if deemed valuable be added to our official documentation on SAP Help Portal:
+
+* [Custom Domain Manager](https://help.sap.com/docs/CUSTOM_DOMAINS/6f35a23466ee4df0b19085c9c52f9c29/4f4c3ff62fd2413089dce8a973620167.html?version=Cloud)
+* [Custom Domain Service](https://help.sap.com/docs/CUSTOM_DOMAINS/74af813c7ee2457cb5eddca0cc70a0c1/4414cc43db2d4229b27b232a5590e253.html?version=Cloud)
+
+The easiest way is to start there, and choose _Edit_ to find the right Markdown file to contribute to.
 
 ## Requirements
 
@@ -13,7 +18,7 @@ For contributions, it's required that you have a GitHub account. For more inform
 
 We recommend using the SAP Custom Domain Service documentation on SAP Help Portal as a starting point for contributions:
 
-1. Open the [SAP Custom Domain Service Documentation](https://help.sap.com/docs/CUSTOM_DOMAINS?version=Cloud).
+1. Open the SAP Custom Domain Service Documentation ([Custom Domain Manager](https://help.sap.com/docs/CUSTOM_DOMAINS/6f35a23466ee4df0b19085c9c52f9c29/4f4c3ff62fd2413089dce8a973620167.html?version=Cloud) or [Custom Domain Service](https://help.sap.com/docs/CUSTOM_DOMAINS/74af813c7ee2457cb5eddca0cc70a0c1/4414cc43db2d4229b27b232a5590e253.html?version=Cloud)).
 1. You can either:
     * Choose *Edit* to suggest a change for the current page you see in the Help Portal viewer, or
     * Choose *Feedback* to open a GitHub issue in this repository.

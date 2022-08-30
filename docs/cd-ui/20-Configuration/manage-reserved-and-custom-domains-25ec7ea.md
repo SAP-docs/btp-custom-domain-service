@@ -81,7 +81,7 @@ To make your applications reachable and secure under your own domain, use the Cu
 
 The custom domains are created and displayed in a list, along with their corresponding landscape and status.
 
-To delete unused reserved and custom domains, choose <span class="SAP-icons"></span>\(Delete\).
+To delete unused reserved and custom domains, choose :wastebasket:\(Delete\).
 
 > ### Note:  
 > If you use the Cloud Foundry CLI to create your custom domains, you can choose the *Cloud Foundry Sync* button to synchronize the custom domains created in the CLI and list them in the UI. For more information about using the Custom Domain service for your applications by using the Cloud Foundry CLI to create a service instance for your Cloud Foundry organization, see the related link.
