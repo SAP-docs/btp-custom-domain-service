@@ -48,6 +48,9 @@ To make sure that your domain is trusted and all your application data is protec
     This also works with subdomains, for example **\*.applications.example.com** covers any application under the subdomain **applications.example.com**, like **myapp.applications.example.com**, but not the subdomain **applications.example.com** itself.
 
 
+> ### Note:  
+> Certificates are owned by the customer, not by SAP BTP. Therefore, you have to get the required TLS/SSL certificates from a Certificate Authority \(CA\).
+
 
 
 <a name="loio48cdbe7a64f3475586dc2f4d11c5603c__section_swb_b1v_lhb"/>
@@ -106,5 +109,5 @@ Create a new separate space; for example, **custom-domains**, in the Cloud Found
 
 [Creating Service Instances](https://help.sap.com/viewer/6cdb9cff1d9b4877b9da90e5020a32d2/Internal/en-US/8221b7434d8e484fab5ec5d219b7bf64.html "Use the SAP BTP cockpit or the Cloud Foundry Command Line Interface to create service instances:") :arrow_upper_right:
 
-[Roles and Permissions in the Cloud Foundry Environment](https://docs.cloudfoundry.org/concepts/roles.html#roles)
+[Roles and Permissions in the  Environment](https://docs.cloudfoundry.org/concepts/roles.html#roles)
 
