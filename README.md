@@ -1,4 +1,4 @@
-[![REUSE status]()]()
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-docs/btp-custom-domain-service)](https://api.reuse.software/info/github.com/SAP-docs/btp-custom-domain-service)
 
 # Contributions to the SAP Custom Domain Service Documentation
 
