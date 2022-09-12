@@ -2,7 +2,7 @@
 
 # Accessibility Features in Custom Domain
 
-To optimize your experience of Custom Domain, the Custom Domain Manager provides features and settings that help you use the software efficiently.
+To optimize your experience of Custom  Domain, the Custom Domain Manager provides features and settings that help you use the software efficiently.
 
 
 
