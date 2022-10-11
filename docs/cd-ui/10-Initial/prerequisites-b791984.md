@@ -48,6 +48,9 @@ To make sure that your domain is trusted and all your application data is protec
     This also works with subdomains, for example **\*.applications.example.com** covers any application under the subdomain **applications.example.com**, like **myapp.applications.example.com**, but not the subdomain **applications.example.com** itself.
 
 
+> ### Note:  
+> Certificates are owned by the customer, not by SAP BTP. Therefore, you have to get the required TLS/SSL certificates from a Certificate Authority \(CA\).
+
 > ### Remember:  
 > To connect to Cloud Foundry and any custom domain \(your own as well as those on SAP BTP, you have to be able to use the TLS Server Name Indication \(SNI\)\).
 

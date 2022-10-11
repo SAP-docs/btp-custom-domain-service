@@ -14,9 +14,9 @@ If your application can be securely reached on its custom domain depends on diff
 
 ## Procedure
 
-1.  Open your browser and enter the custom domain address of your application. The address has the following scheme: **https://<Application Hostname\>.<Custom Domain\>**, for example **https://myapp.applications.example.com**
+Open your browser and enter the custom domain address of your application. The address has the following scheme: **https://<Application Hostname\>.<Custom Domain\>**, for example **https://myapp.applications.example.com**
 
-    > ### Note:  
-    > You can look up the hostname of your application and your custom domain by typing: `cf routes`.
+ > ### Note:  
+> You can look up the hostname of your application and your custom domain by typing: `cf routes`.
 
-
+ 

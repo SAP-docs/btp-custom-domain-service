@@ -18,6 +18,5 @@ Whether or not your application can be securely reached on its custom domain, de
 
 ## Procedure
 
-1.  Open your browser and enter the custom domain address of your application. The address has the following scheme: **https://<Application Hostname\>.<Custom Domain\>**; for example, **https://myapp.applications.example.com**.
-
+Open your browser and enter the custom domain address of your application. The address has the following scheme: **https://<Application Hostname\>.<Custom Domain\>**; for example, **https://myapp.applications.example.com**.
 

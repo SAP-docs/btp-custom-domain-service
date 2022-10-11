@@ -105,7 +105,7 @@ When submitting the incident, we recommend including the following information:
 **Related Information**  
 
 
-[Getting Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Dev/en-US/5dd739823b824b539eee47b7860a00be.html "Use SAP Community, get guided answers, or explore SAP Support Portal.") :arrow_upper_right:
+[Getting Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/5dd739823b824b539eee47b7860a00be.html "Use SAP Community, get guided answers, or explore SAP Support Portal.") :arrow_upper_right:
 
 [Custom Domain service guided answers](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393)
 

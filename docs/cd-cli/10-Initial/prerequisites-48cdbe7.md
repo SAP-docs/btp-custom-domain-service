@@ -51,6 +51,9 @@ To make sure that your domain is trusted and all your application data is protec
 > ### Note:  
 > Certificates are owned by the customer, not by SAP BTP. Therefore, you have to get the required TLS/SSL certificates from a Certificate Authority \(CA\).
 
+> ### Remember:  
+> To connect to Cloud Foundry and any custom domain \(your own as well as those on SAP BTP, you have to be able to use the TLS Server Name Indication \(SNI\)\).
+
 
 
 <a name="loio48cdbe7a64f3475586dc2f4d11c5603c__section_swb_b1v_lhb"/>
@@ -105,9 +108,9 @@ Create a new separate space; for example, **custom-domains**, in the Cloud Found
 **Related Information**  
 
 
-[Using Services in the Cloud Foundry Environment](https://help.sap.com/viewer/6cdb9cff1d9b4877b9da90e5020a32d2/Internal/en-US/f22029f0e7404448ab65f71ff5b0804d.html "Developers can bind applications running on SAP BTP with services offered by SAP and other services. Learn more about using services in the Cloud Foundry environment, how to create (user-provided) service instances and bind them to applications, and how to create service keys.") :arrow_upper_right:
+[Using Services in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/f22029f0e7404448ab65f71ff5b0804d.html "Learn more about using services in the Cloud Foundry environment, how to create (user-provided) service instances and bind them to applications, and how to create service keys.") :arrow_upper_right:
 
-[Creating Service Instances](https://help.sap.com/viewer/6cdb9cff1d9b4877b9da90e5020a32d2/Internal/en-US/8221b7434d8e484fab5ec5d219b7bf64.html "Use the SAP BTP cockpit or the Cloud Foundry Command Line Interface to create service instances:") :arrow_upper_right:
+[Creating Service Instances](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/8221b7434d8e484fab5ec5d219b7bf64.html "Use the SAP BTP cockpit or the Cloud Foundry Command Line Interface to create service instances:") :arrow_upper_right:
 
 [Roles and Permissions in the  Environment](https://docs.cloudfoundry.org/concepts/roles.html#roles)
 

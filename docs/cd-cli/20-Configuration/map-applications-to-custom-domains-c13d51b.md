@@ -8,58 +8,57 @@ Depending on what kind of application you want to map to a custom domain, there 
 
 ## Procedure
 
-1.  Decide what scenario applies to you according to this table.
+Decide what scenario applies to you according to this table.
 
 
-    <table>
-    <tr>
-    <th valign="top">
+<table>
+<tr>
+<th valign="top">
 
-    Scenario
-
-
-    
-    </th>
-    <th valign="top">
-
-    Instructions
+Scenario
 
 
-    
-    </th>
-    </tr>
-    <tr>
-    <td valign="top">
 
-    You have deployed your own application on Cloud Foundry and want to run this application under a custom domain.
+</th>
+<th valign="top">
+
+Instructions
 
 
-    
-    </td>
-    <td valign="top">
 
-    Follow these instructions: [Map Your Own Application to a Custom Domain](map-your-own-application-to-a-custom-domain-d898407.md).
+</th>
+</tr>
+<tr>
+<td valign="top">
 
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    You have subscribed to a SaaS application and want to run this SaaS application under a custom domain.
+You have deployed your own application on Cloud Foundry and want to run this application under a custom domain.
 
 
-    
-    </td>
-    <td valign="top">
 
-    Follow these instructions: [Map a SaaS Application to a Custom Domain](map-a-saas-application-to-a-custom-domain-9f029c0.md) 
+</td>
+<td valign="top">
+
+Follow these instructions: [Map Your Own Application to a Custom Domain](map-your-own-application-to-a-custom-domain-d898407.md).
 
 
-    
-    </td>
-    </tr>
-    </table>
-    
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+You have subscribed to a SaaS application and want to run this SaaS application under a custom domain.
+
+
+
+</td>
+<td valign="top">
+
+Follow these instructions: [Map a SaaS Application to a Custom Domain](map-a-saas-application-to-a-custom-domain-9f029c0.md) 
+
+
+
+</td>
+</tr>
+</table>
 

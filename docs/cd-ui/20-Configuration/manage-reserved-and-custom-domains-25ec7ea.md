@@ -89,5 +89,5 @@ To delete unused reserved and custom domains, choose :wastebasket:\(Delete\).
 **Related Information**  
 
 
-[What Is Custom Domain](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Dev/en-US/4414cc43db2d4229b27b232a5590e253.html "Configure and expose your application under your own domain.") :arrow_upper_right:
+[What Is Custom Domain](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Validation/en-US/4414cc43db2d4229b27b232a5590e253.html "Configure and expose your application under your own domain.") :arrow_upper_right:
 

@@ -10,9 +10,9 @@ To use the Custom Domain service for your applications, use the Cloud Foundry CL
 
 ## Prerequisites
 
--   Download and install the Cloud Foundry command-line interface \(CLI\); see [Download and Install the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Dev/en-US/4ef907afb1254e8286882a2bdef0edf4.html "Download and set up the Cloud Foundry Command Line Interface (cf CLI) to start working with the Cloud Foundry environment.") :arrow_upper_right:.
+-   Download and install the Cloud Foundry command-line interface \(CLI\); see [Download and Install the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/4ef907afb1254e8286882a2bdef0edf4.html "Download and set up the Cloud Foundry Command Line Interface (cf CLI) to start working with the Cloud Foundry environment.") :arrow_upper_right:.
 
--   Configure the entitlement for the Custom Domain service and assign it to the subaccount that wants to use the service; see [Configure Entitlements and Quotas for Subaccounts](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Dev/en-US/5ba357b4fa1e4de4b9fcc4ae771609da.html "Assign entitlements to subaccounts by adding service plans and distribute the quotas available in your global account to your subaccounts using the SAP BTP cockpit.") :arrow_upper_right:.
+-   Configure the entitlement for the Custom Domain service and assign it to the subaccount that wants to use the service; see [Configure Entitlements and Quotas for Subaccounts](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/5ba357b4fa1e4de4b9fcc4ae771609da.html "Assign entitlements to subaccounts by adding service plans and distribute the quotas available in your global account to your subaccounts using the SAP BTP cockpit.") :arrow_upper_right:.
 
 
 
@@ -66,9 +66,9 @@ You’ve now created a service instance for custom domains.
 **Related Information**  
 
 
-[Using Services in the Cloud Foundry Environment](https://help.sap.com/viewer/6cdb9cff1d9b4877b9da90e5020a32d2/Internal/en-US/f22029f0e7404448ab65f71ff5b0804d.html "Developers can bind applications running on SAP BTP with services offered by SAP and other services. Learn more about using services in the Cloud Foundry environment, how to create (user-provided) service instances and bind them to applications, and how to create service keys.") :arrow_upper_right:
+[Using Services in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/f22029f0e7404448ab65f71ff5b0804d.html "Learn more about using services in the Cloud Foundry environment, how to create (user-provided) service instances and bind them to applications, and how to create service keys.") :arrow_upper_right:
 
-[Create Service Instances Using the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/6cdb9cff1d9b4877b9da90e5020a32d2/Internal/en-US/a872531845d6416b8fa07a8b84875d7e.html "You can use the Cloud Foundry Command Line Interface (cf CLI) to create service instances.") :arrow_upper_right:
+[Create Service Instances Using the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/a872531845d6416b8fa07a8b84875d7e.html "You can use the Cloud Foundry Command Line Interface (cf CLI) to create service instances.") :arrow_upper_right:
 
 [Remove the Custom Domain Service Instance](../remove-the-custom-domain-service-instance-8f84532.md "Use the Cloud Foundry command-line interface to remove the custom domain service instance from your Cloud Foundry organization.")
 
