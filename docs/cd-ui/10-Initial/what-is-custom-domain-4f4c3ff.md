@@ -49,7 +49,7 @@ For more information about use cases for Custom Domain, see [SAP Discovery Cente
 This service runs in the following environments:
 
 -   Cloud Foundry environment
--   Neo environment \(for information about the service in the Neo environment refer to the [Neo documentation](https://help.sap.com/viewer/ea72206b834e4ace9cd834feed6c0e09/Validation/en-US/98e655aacd1d4fc6a6ab23475b1afcd9.html "SAP Custom Domain service allows subaccount owners to make their SAP BTP applications accessible via a custom domain that is different from the default one (hana.ondemand.com) - for example www.myshop.com.") :arrow_upper_right:\).
+-   Neo environment \(for information about the service in the Neo environment refer to the [Neo documentation](https://help.sap.com/viewer/ea72206b834e4ace9cd834feed6c0e09/Cloud/en-US/98e655aacd1d4fc6a6ab23475b1afcd9.html "SAP Custom Domain service allows subaccount owners to make their SAP BTP applications accessible via a custom domain that is different from the default one (hana.ondemand.com) - for example www.myshop.com.") :arrow_upper_right:\).
 
 
 
@@ -85,9 +85,9 @@ Use the Custom Domain service in the following scenarios.
 
 To learn more about the prerequisites, please have a look at the following sections.
 
--   [Initial Setup](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Validation/en-US/108177aea2a04d1b9006d96173bfa99a.html "This section provides information on the initial setup of the Custom Domain service in the Cloud Foundry environment.") :arrow_upper_right:
+-   [Initial Setup](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Cloud/en-US/108177aea2a04d1b9006d96173bfa99a.html "This section provides information on the initial setup of the Custom Domain service in the Cloud Foundry environment.") :arrow_upper_right:
 
--   [Prerequisites](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Validation/en-US/48cdbe7a64f3475586dc2f4d11c5603c.html "Before configuring custom domains, you have to make some preliminary steps and fulfill a number of prerequisites.") :arrow_upper_right:
+-   [Prerequisites](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Cloud/en-US/48cdbe7a64f3475586dc2f4d11c5603c.html "Before configuring custom domains, you have to make some preliminary steps and fulfill a number of prerequisites.") :arrow_upper_right:
 
 
 

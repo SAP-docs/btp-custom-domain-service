@@ -10,9 +10,9 @@ To make sure that your domain is trusted and all application data is protected, 
 
 ## Prerequisites
 
--   Download and install the Cloud Foundry command-line interface \(CLI\), see [Download and Install the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/4ef907afb1254e8286882a2bdef0edf4.html "Download and set up the Cloud Foundry Command Line Interface (cf CLI) to start working with the Cloud Foundry environment.") :arrow_upper_right:.
+-   Download and install the Cloud Foundry command-line interface \(CLI\), see [Download and Install the Cloud Foundry Command Line Interface](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4ef907afb1254e8286882a2bdef0edf4.html "Download and set up the Cloud Foundry Command Line Interface (cf CLI) to start working with the Cloud Foundry environment.") :arrow_upper_right:.
 
--   Download and install the Cloud Foundry CLI plugin for custom domains, see [Custom Domain Plugin for the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/1832fcd1eec9415694de50f620e5a522.html "The Custom Domain CLI plugin provides functions for creating private keys and certificate signing requests, as well as additional commands for managing your custom domains.") :arrow_upper_right:.
+-   Download and install the Cloud Foundry CLI plugin for custom domains, see [Custom Domain Plugin for the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/1832fcd1eec9415694de50f620e5a522.html "The Custom Domain CLI plugin provides functions for creating private keys and certificate signing requests, as well as additional commands for managing your custom domains.") :arrow_upper_right:.
 
 
 

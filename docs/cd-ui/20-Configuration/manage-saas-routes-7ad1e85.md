@@ -10,7 +10,7 @@ Use the Custom Domain Manager to select your existing SaaS subscriptions and cre
 
 ## Prerequisites
 
--   Make sure that you’ve done the previous steps of the [Creating Custom Domains with TLS/SSL Server Authentication](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Validation/en-US/afeb1e77fc2f4365803049e9407449eb.html "Using custom domains with server authentication lets you establish secure communication between clients and your application.") :arrow_upper_right: process.
+-   Make sure that you’ve done the previous steps of the [Creating Custom Domains with TLS/SSL Server Authentication](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Cloud/en-US/afeb1e77fc2f4365803049e9407449eb.html "Using custom domains with server authentication lets you establish secure communication between clients and your application.") :arrow_upper_right: process.
 
     > ### Note:  
     > For PaaS: Create and deploy an application within the Cloud Foundry environment. For more information on deploying an app, see the related link.
@@ -87,5 +87,5 @@ An active status for a route signifues that a certificate has been activated for
 **Related Information**  
 
 
-[Deploy Business Applications in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/4946ea5421374924963ce8575a5f3d05.html "When an application for the Cloud Foundry environment resides in a folder on your local machine, you can deploy it and start it by executing the command line interface (CLI) command push. To deploy business applications bundled in a multitarget application archive, you have to use the command deploy-mta.") :arrow_upper_right:
+[Deploy Business Applications in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4946ea5421374924963ce8575a5f3d05.html "When an application for the Cloud Foundry environment resides in a folder on your local machine, you can deploy it and start it by executing the command line interface (CLI) command push. To deploy business applications bundled in a multitarget application archive, you have to use the command deploy-mta.") :arrow_upper_right:
 
