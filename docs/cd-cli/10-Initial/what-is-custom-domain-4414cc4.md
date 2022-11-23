@@ -35,7 +35,7 @@ For more information about use cases for Custom Domain, see [SAP Discovery Cente
 ## Features
 
   Access to your domain 
- :   Configure your application with a name that is easily recognizeable by your customers.
+ :   Configure your application with a name that is easily recognizable by your customers.
 
    Application identity protection 
  :   Upload a TLS/SSL certificate to help secure your application identity and the data transmitted between the browser and your application.

@@ -4,7 +4,7 @@
 
 Here you can find a list of the security events that are logged by the Custom Domain service.
 
-<a name="loioffa6fa6180fd4e3cab6600f1566c93fe__table_dqf_pkf_p4b"/>Security events written in audit logs
+**Security events written in audit logs**
 
 
 <table>
