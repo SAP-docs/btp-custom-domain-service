@@ -85,7 +85,7 @@ Use the Custom Domain service in the following scenarios.
 
 To learn more about the prerequisites, please have a look at the following sections.
 
--   [Initial Setup](initial-setup-1deab96.md)
+-   [Initial Setup](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Cloud/en-US/108177aea2a04d1b9006d96173bfa99a.html "This section provides information on the initial setup of the Custom Domain service in the Cloud Foundry environment.") :arrow_upper_right:
 
 -   [Prerequisites](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Cloud/en-US/48cdbe7a64f3475586dc2f4d11c5603c.html "Before configuring custom domains, you have to make some preliminary steps and fulfill a number of prerequisites.") :arrow_upper_right:
 

@@ -12,6 +12,16 @@ To make your applications reachable and secure under your own domain, use the Cu
 
 ## Prerequisites
 
+Domain reservations are linked to a global account and shared with all of its related subaccounts in the same region.
+
+Although these domains are not listed other than in the subaccounts in which they were reserved, you can reserve and create subdomains in those accounts.
+
+> ### Example:  
+> In subaccount 1, the example.com super domain is reserved and you create a custom domain, sub1.example.com. Then, in subaccount 2, you can reserve and create the sub2.customer.com custom domain.
+
+> ### Remember:  
+> Domain reservations must be done in each landscape \(including its extensions\). A global custom domain reservation is not possible.
+
 > ### Note:  
 > Domain names are owned by the customer, not by SAP BTP. Therefore, you have to buy domain names from a registrar who sells domain names. Refer to [Prerequisites](../10-Initial/prerequisites-b791984.md) for more information.
 

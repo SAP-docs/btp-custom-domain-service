@@ -10,6 +10,8 @@ To use the Custom Domain Manager, you have to complete some initial steps. Also,
 
 2.  Subscribe to the Custom Domain Manager by using the SAP BTP cockpit in the *Instances and Subscriptions* tab of your subaccount.
 
+    To subscribe to multitenant applications from the Subscriptions page in the SAP BTP cockpit, see [Subscribe to Multitenant Applications in the Cloud Foundry Environment Using the Cockpit](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/7a3e39622be14413b2a4df7c02ca1170.html?version=Cloud).
+
 3.  Choose *Create* to create a new instance or subscription.
 
 4.  After you select *Custom Domain* as the *Service*, select *standard* as the *Plan*.

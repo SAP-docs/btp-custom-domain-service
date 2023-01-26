@@ -137,7 +137,7 @@ HTTP/1.1, HTTP/2
 
 <!-- reference\_jb3\_ys1\_3vb -->
 
-## Using Legacy TLS Configurations in Custom DomainManager Activations
+## Using Legacy TLS Configurations in Custom Domain Manager Activations
 
 When working with the Cloud Foundry CLI plugin for custom domains, a default TLS configuration is created, which can also be seen in the Custom Domain Manager.
 
