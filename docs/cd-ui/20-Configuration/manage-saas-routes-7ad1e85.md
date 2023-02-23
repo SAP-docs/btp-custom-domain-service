@@ -25,6 +25,8 @@ Use the Custom Domain Manager to select your existing SaaS subscriptions and cre
 
 -   Only for the Cloud Foundry environment: Be a space developer in the subaccount that has subscribed to the SaaS application.
 
+-   Only for SaaS applications subscribed in another subaccount of your global account: Such subscriptions must reside in the same Cloud Foundry region and in a landscape where your subaccount either runs the Cloud Foundry environment, or already has one or more subscriptions.
+
     Please refer to the customer guide of your SaaS application to check if you must request an additional SaaS route configuration. In any case, the following steps must be performed.
 
 
@@ -87,5 +89,5 @@ An active status for a route signifues that a certificate has been activated for
 **Related Information**  
 
 
-[Deploy Business Applications in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4946ea5421374924963ce8575a5f3d05.html "When an application for the Cloud Foundry environment resides in a folder on your local machine, you can deploy it and start it by executing the command line interface (CLI) command push. To deploy business applications bundled in a multitarget application archive, you have to use the command deploy-mta.") :arrow_upper_right:
+[Deploy Business Applications in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/4946ea5421374924963ce8575a5f3d05.html "When an application for the Cloud Foundry environment resides in a folder on your local machine, you can deploy it and start it by executing the command line interface (CLI) command push. To deploy business applications bundled in a multitarget application archive, you have to use the command deploy-mta.") :arrow_upper_right:
 

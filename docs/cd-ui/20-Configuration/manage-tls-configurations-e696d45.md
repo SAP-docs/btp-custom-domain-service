@@ -43,7 +43,7 @@ Create your configurations.
     > 
     > If both your minimum and maximum protocol versions are 1.2, you cannot select cipher suites prefixed with \(1.3\), and similarly, if both versions are 1.3, you cannot select cipher suites prefixed with \(1.2\).
 
-9.  \(Optional\) You can select the *Enable HTTP/2* check box to support the use of the HTTP/2 protocol version.
+9.  \(Optional\) You can deselect the *Enable HTTP/2* check box to remove the use of the HTTP/2 protocol version.
 10. Switch to the *Trust List* tab and choose *Add Trust List* to upload your list of trusted certificates and assign it to your custom domains.
 
     On adding the trust list, client authentication is enabled. However, when the last CA certificate is removed from the trust list, client authentication is automatically turned off.

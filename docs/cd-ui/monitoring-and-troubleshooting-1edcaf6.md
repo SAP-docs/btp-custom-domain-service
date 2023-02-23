@@ -37,6 +37,24 @@ If you encounter an error because your custom domain is missing from the `redire
 
 
 
+### Copy Support Information
+
+When reporting an incident or error, it helps to have all the required information such as the global account ID, subaccount ID, subdomain, and any other important details handy.
+
+1.  After logging on to the Custom Domain Manager by entering your credentials, on the *Home* screen, click your name on the top-right corner to select *User Information*.
+
+    The popup window displayed contains all the required information.
+
+2.  Click *Copy Support Information* to copy the details to the clipboard.
+
+    You can now paste the information where desired.
+
+    > ### Note:  
+    > For data privacy reasons, the user details are not copied.
+
+
+
+
 ### Contact SAP Support
 
 You can report an incident or error through the SAP Support Portal. For more information, see [Getting Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html).
@@ -93,5 +111,5 @@ When submitting the incident, we recommend including the following information:
 **Related Information**  
 
 
-[Getting Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html "Use SAP Community, get guided answers, or explore SAP Support Portal.") :arrow_upper_right:
+[Getting Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/5dd739823b824b539eee47b7860a00be.html "Use SAP Community, get guided answers, or explore SAP Support Portal.") :arrow_upper_right:
 
