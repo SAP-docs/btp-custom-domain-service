@@ -64,7 +64,7 @@ Deactivate the custom domains that you want to remove: [Deactivate Custom Domain
     > ### Note:  
     > If you delete a domain that is used along other domains under one certificate, you can still use the certificate for the remaining domains. If you wish to create a new certificate for the remaining domains, please repeat the steps described in [Creating Custom Domains with TLS/SSL Server Authentication](../20-Configuration/creating-custom-domains-with-tls-ssl-server-authentication-afeb1e7.md).
 
-6.  Confirm the deletion process by typing: ***y***.
+6.  Confirm the deletion process by typing: `y`.
 
 7.  Verify that the domain has been deleted:
 

@@ -8,7 +8,7 @@ Configure and expose your application under your own domain.
 
 The SAP Custom Domain service lets you configure your own custom domain to publicly expose your application, instead of using the default subdomain.
 
-By using this service, subaccount owners can make their SAP BTP applications accessible via a custom domain that is different from the default one \(`hana.ondemand.com`\) - for example, ***www.myshop.com***.
+By using this service, subaccount owners can make their SAP BTP applications accessible via a custom domain that is different from the default one \(`hana.ondemand.com`\) - for example, `www.myshop.com`.
 
 For more information about use cases for Custom Domain, see [SAP Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/custom-domain?service_plan=custom-domain&region=all).
 
@@ -34,13 +34,78 @@ For more information about use cases for Custom Domain, see [SAP Discovery Cente
 
 ## Features
 
-  Access to your domain 
- :   Configure your application with a name that is easily recognizable by your customers.
 
-   Application identity protection 
- :   Upload a TLS/SSL certificate to help secure your application identity and the data transmitted between the browser and your application.
+<dl>
+<dt><b>
 
- 
+ Access to your domain 
+
+</b></dt>
+<dd>
+
+Configure your application with a name that is easily recognizable by your customers.
+
+
+
+</dd><dt><b>
+
+ Application identity protection 
+
+</b></dt>
+<dd>
+
+Upload a TLS/SSL certificate to help secure your application identity and the data transmitted between the browser and your application.
+
+
+
+</dd><dt><b>
+
+ Security hardening 
+
+</b></dt>
+<dd>
+
+Add TLS configurations, including TLS protocol versions, cipher suites, and HTTP/2.
+
+
+
+</dd><dt><b>
+
+ Extension landscapes 
+
+</b></dt>
+<dd>
+
+Manage custom domains in the extension landscapes of SAP Business Technology Platform \(SAP BTP\).
+
+
+
+</dd><dt><b>
+
+ Dashboard 
+
+</b></dt>
+<dd>
+
+Get important KPIs of your custom domains, including predictive expiration warnings.
+
+
+
+</dd><dt><b>
+
+ Benefit from multitenancy support 
+
+</b></dt>
+<dd>
+
+Use both the CLI and UI interfaces of this service in tenant-aware \(multitenant\) applications.
+
+
+
+</dd>
+</dl>
+
+
 
 <a name="loio4f4c3ff62fd2413089dce8a973620167__section_qt3_hst_mpb"/>
 
@@ -49,7 +114,7 @@ For more information about use cases for Custom Domain, see [SAP Discovery Cente
 This service runs in the following environments:
 
 -   Cloud Foundry environment
--   Neo environment \(for information about the service in the Neo environment refer to the [Neo documentation](https://help.sap.com/viewer/ea72206b834e4ace9cd834feed6c0e09/Cloud/en-US/98e655aacd1d4fc6a6ab23475b1afcd9.html "SAP Custom Domain service allows subaccount owners to make their SAP BTP applications accessible via a custom domain that is different from the default one (hana.ondemand.com) - for example www.myshop.com.") :arrow_upper_right:\).
+-   Neo environment \(for information about the service in the Neo environment refer to the [Neo documentation](https://help.sap.com/viewer/ea72206b834e4ace9cd834feed6c0e09/Validation/en-US/98e655aacd1d4fc6a6ab23475b1afcd9.html "SAP Custom Domain service allows subaccount owners to make their SAP BTP applications accessible via a custom domain that is different from the default one (hana.ondemand.com) - for example www.myshop.com.") :arrow_upper_right:\).
 
 
 

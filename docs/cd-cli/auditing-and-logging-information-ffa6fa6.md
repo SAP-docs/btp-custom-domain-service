@@ -56,7 +56,7 @@ Create a service instance
 <td valign="top">
 
 ```
-\"attributes\":[
+"attributes":[
         {
             \"name\":\"service instance Id\",
             \"old\":\"\",
@@ -133,11 +133,11 @@ Generate a new private and public key pair
 ```
  "attributes":[
        {
-           "name":"alias",
-           "new":"<KeyName>"},
+           \"name\":\"alias\",
+           \"new\":\"<KeyName>\"},
            {
-               "name":"subject",
-               "new":"CN=<Value>"
+               \"name\":\"subject\",
+               \"new\":\"CN=<Value>\"
            }
    ],
 ```
@@ -189,7 +189,7 @@ Activate a server certificate for a set of domains
 ***Domain *<name\>* activated\\",\\"attributes\\***
 
 ```
-\"attributes\":[
+"attributes":[
       {\"name\":\"Name\",
       \"new\":\"<Value>"},{\"name\":\"State\"},
       {\"name\":\"Trust\"}
@@ -223,7 +223,7 @@ Deactivate a certificate for a given domain
 ***Domain *<name\>* deactivated\\***
 
 ```
-\"attributes\":[
+"attributes":[
         {
             \"name\":\"Trust\"
         },
@@ -261,7 +261,7 @@ Enable client authentication for a domain
 ***Enabled client authetication for domain *<name\>*\\***
 
 ```
-\"attributes\":[
+"attributes":[
         {
             \"new\":\"<Value>"
         },
@@ -295,7 +295,7 @@ Disable client authentication for a domain
 ***Disabled client authentication for domain *<name\>*.\\***
 
 ```
-\"attributes\":[
+"attributes":[
         {
             \"name\":\"Trust\",
             \"old\":\"-----BEGIN CERTIFICATE-----\\...\\n-----END CERTIFICATE-----\\n\"
@@ -327,7 +327,7 @@ Upload a certificate and CA chain for a given key
 ***Cetificate Chain for Identity *<value\>* and domain *<name\>* uploaded\\***
 
 ```
-\"attributes\":[
+"attributes":[
         {
             \"name\":\"Chain\",
             \"new\":\"-----BEGIN CERTIFICATE-----\\...\\n-----END CERTIFICATE-----\\n\"

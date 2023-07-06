@@ -17,7 +17,7 @@ Domain reservations are linked to a global account and shared with all of its re
 Although these domains are not listed other than in the subaccounts in which they were reserved, you can reserve and create subdomains in those accounts.
 
 > ### Example:  
-> In subaccount 1, the example.com super domain is reserved and you create a custom domain, sub1.example.com. Then, in subaccount 2, you can reserve and create the sub2.customer.com custom domain.
+> In subaccount 1, the example.com super domain is reserved and you create a custom domain, sub1.example.com. Then, in subaccount 2, you can reserve and create the sub2.example.com custom domain.
 
 > ### Remember:  
 > Domain reservations must be done in each landscape \(including its extensions\). A global custom domain reservation is not possible.
@@ -95,6 +95,14 @@ To delete unused reserved and custom domains, choose :wastebasket:\(Delete\).
 
 > ### Note:  
 > If you use the Cloud Foundry CLI to create your custom domains, you can choose the *Cloud Foundry Sync* button to synchronize the custom domains created in the CLI and list them in the UI. For more information about using the Custom Domain service for your applications by using the Cloud Foundry CLI to create a service instance for your Cloud Foundry organization, see the related link.
+
+
+
+<a name="loio25ec7eaf439341e7bf52a280d3797c6e__postreq_xm4_wzs_2xb"/>
+
+## Next Steps
+
+Use the *Domain Handover* tab to hand over custom domains to other subaccounts, or to accept custom domains offered by other subaccounts and add them to your own custom domains. A handover can be done only between main and extension landscapes. No certificates are copied or moved. No DNS operations are performed. See [Extension Landscapes](../extension-landscapes-66b366d.md) for more information.
 
 **Related Information**  
 

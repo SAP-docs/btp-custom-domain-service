@@ -6,10 +6,10 @@ To use the Custom Domain Manager to manage private domains within your Cloud Fou
 
 
 
-Ensure that you have the **CustomDomainAdmin** or **CustomDomainViewer** roles to manage or view your custom domains, respectively.
+Ensure that you have the **Custom Domain Administrator** or **Custom Domain Viewer** role collection to manage or view your custom domains, respectively.
 
 > ### Tip:  
-> Once you use the Custom Domain Manager and the **CustomDomainAdmin** role, your subaccount user does not need to be a Cloud Foundry organization member or have the **SpaceManager** role anymore.
+> Once you use the Custom Domain Manager and the **Custom Domain Administrator** role collection, your subaccount user does not need to be a Cloud Foundry organization member or have the **SpaceManager** role anymore.
 
 **Related Information**  
 
