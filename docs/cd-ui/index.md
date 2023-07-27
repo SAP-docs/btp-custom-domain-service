@@ -28,6 +28,5 @@
         -   [Decommissioning a Custom Domain Offered for Handover](decommissioning-a-custom-domain-offered-for-handover-be85266.md)
 -   [Auditing and Logging Information](auditing-and-logging-information-6d12171.md)
     -   [Specification](specification-ed9343b.md)
-    -   [IAC Action to Trigger Auditlog Warnings](iac-action-to-trigger-auditlog-warnings-6b9bbbc.md)
 -   [Monitoring and Troubleshooting](monitoring-and-troubleshooting-1edcaf6.md)
 

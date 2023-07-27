@@ -136,15 +136,3 @@ The auditlog message is created with the following information:
 </dd>
 </dl>
 
-
-
-<a name="loioed9343ba00ea495ba84665e269eafcf3__section_tp4_s2h_kxb"/>
-
-## CF Task Application
-
-A Cloud Foundry task generates the audit log messages. For details, see the [Running Tasks](https://docs.cloudfoundry.org/devguide/using-tasks.html). A dedicated application is required for this job. You can reuse the task application for ACME by renaming it from `custom-domain-certificates-acme` to `custom-domain-certificates-automation`.
-
-This application will then be called with a special command line parameter, `write-auditlog-warnings`, to distinguish between the ACME and auditlog tasks. For ACME, the `acme` command line parameter is used.
-
-For backward compatibility, if no command line parameter is used, the ACME task is triggered.
-
