@@ -27,6 +27,6 @@
         -   [Using a Custom Domain Accepted from Handover](using-a-custom-domain-accepted-from-handover-6da3c8d.md)
         -   [Decommissioning a Custom Domain Offered for Handover](decommissioning-a-custom-domain-offered-for-handover-be85266.md)
 -   [Auditing and Logging Information](auditing-and-logging-information-6d12171.md)
-    -   [Specification](specification-ed9343b.md)
+    -   [Certificate Expirations and TLS Ciphers](certificate-expirations-and-tls-ciphers-ed9343b.md)
 -   [Monitoring and Troubleshooting](monitoring-and-troubleshooting-1edcaf6.md)
 

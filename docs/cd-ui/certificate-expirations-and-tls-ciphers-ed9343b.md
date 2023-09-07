@@ -1,6 +1,6 @@
 <!-- loioed9343ba00ea495ba84665e269eafcf3 -->
 
-# Specification
+# Certificate Expirations and TLS Ciphers
 
 All events like certificate expiration or TLS configuration warnings are from the `audit.security-events` message category.
 
@@ -104,32 +104,6 @@ Example of a trusted CA certificates warning:
 >     }
 > }
 > ```
-
-
-
-</dd><dt><b>
-
-Auditlog message process
-
-</b></dt>
-<dd>
-
-All identities are scanned and if the server certificate expiration info has a severity equal to `high` or `critical`, an auditlog message is created. The expiration configuration of the landscape configuration is used.
-
-For TLS configuration trust warning messages, all TLS configurations are scanned and if the trusted CA certificate expiration information has a severity equal to `high` or `critical` for one of the trusted CA certificates, an auditlog message is created. If more than one trusted CA certificate has expiration warnings, only one message is created for one TLS configuration. The trusted CA expiration configuration of the landscape configuration is used.
-
-For TLS configuration ciphersuites warnings, all TLS configurations are scanned for ciphersuites warnings and the first owner \(tenant\) of the TLS configuration is used for the auditlog message. The HAProxy ciphersuites configuration \(exports\) of the landscape configuration is used to check the TLS configurations.
-
-The auditlog message is created with the following information:
-
--   username: `SYSTEM`
-
--   tenant: The tenant of the identity or TLS configuration.
-
--   IP address: The IP address of the running container VM.
-
--   message: The JSON message as a string.
-
 
 
 
