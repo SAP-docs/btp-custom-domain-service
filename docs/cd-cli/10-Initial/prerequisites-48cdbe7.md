@@ -108,9 +108,9 @@ Create a new separate space; for example, **custom-domains**, in the Cloud Found
 **Related Information**  
 
 
-[Using Services in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/f22029f0e7404448ab65f71ff5b0804d.html "Learn more about using services in the Cloud Foundry environment, how to create (user-provided) service instances and bind them to applications, and how to create service keys.") :arrow_upper_right:
+[Using Services in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/f22029f0e7404448ab65f71ff5b0804d.html "Learn more about using services in the Cloud Foundry environment, how to create (user-provided) service instances and bind them to applications, and how to create service keys.") :arrow_upper_right:
 
-[Creating Service Instances](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/8221b7434d8e484fab5ec5d219b7bf64.html "Use the SAP BTP cockpit or the Cloud Foundry Command Line Interface to create service instances:") :arrow_upper_right:
+[Creating Service Instances](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/8221b7434d8e484fab5ec5d219b7bf64.html "Use the SAP BTP cockpit or the Cloud Foundry Command Line Interface to create service instances:") :arrow_upper_right:
 
 [Roles and Permissions in the  Environment](https://docs.cloudfoundry.org/concepts/roles.html#roles)
 

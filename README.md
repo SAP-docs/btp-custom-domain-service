@@ -20,8 +20,8 @@ We recommend using the SAP Custom Domain Service documentation on SAP Help Porta
 
 1. Open the SAP Custom Domain Service Documentation ([Custom Domain Manager](https://help.sap.com/docs/CUSTOM_DOMAINS/6f35a23466ee4df0b19085c9c52f9c29/4f4c3ff62fd2413089dce8a973620167.html?version=Cloud) or [Custom Domain Service](https://help.sap.com/docs/CUSTOM_DOMAINS/74af813c7ee2457cb5eddca0cc70a0c1/4414cc43db2d4229b27b232a5590e253.html?version=Cloud)).
 1. You can either:
-    * Choose *Edit* to suggest a change for the current page you see in the Help Portal viewer, or
-    * Choose *Feedback* to open a GitHub issue in this repository.
+    * Choose *Feedback* > *Edit page* to suggest a change for the current page you see in the Help Portal viewer, or
+    * Choose *Feedback* > *Create issue* to open a GitHub issue in this repository.
 
 If you only make a small contribution, that's the quickest way to propose a change. For larger contributions, we recommend forking this repository to work locally. The filenames in the [docs](docs) directory are created based on the title of the page on SAP Help Portal.
 
