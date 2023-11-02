@@ -17,14 +17,10 @@ Decide what scenario applies to you according to this table.
 
 Scenario
 
-
-
 </th>
 <th valign="top">
 
 Instructions
-
-
 
 </th>
 </tr>
@@ -33,14 +29,10 @@ Instructions
 
 You have deployed your own application on Cloud Foundry and want to run this application under a custom domain.
 
-
-
 </td>
 <td valign="top">
 
 Follow these instructions: [Map Your Own Application to a Custom Domain](map-your-own-application-to-a-custom-domain-d898407.md).
-
-
 
 </td>
 </tr>
@@ -49,14 +41,10 @@ Follow these instructions: [Map Your Own Application to a Custom Domain](map-you
 
 You have subscribed to a SaaS application and want to run this SaaS application under a custom domain.
 
-
-
 </td>
 <td valign="top">
 
 Follow these instructions: [Map a SaaS Application to a Custom Domain](map-a-saas-application-to-a-custom-domain-9f029c0.md) 
-
-
 
 </td>
 </tr>

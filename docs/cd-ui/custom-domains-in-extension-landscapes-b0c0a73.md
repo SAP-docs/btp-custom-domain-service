@@ -33,28 +33,20 @@ A BTP subaccount in the EU10 region contains a CF environment in the eu10 main l
 
 Region
 
-
-
 </th>
 <th valign="top">
 
 Type
-
-
 
 </th>
 <th valign="top">
 
 Service
 
-
-
 </th>
 <th valign="top">
 
 URL
-
-
 
 </th>
 </tr>
@@ -63,28 +55,20 @@ URL
 
 EU10
 
-
-
 </td>
 <td valign="top">
 
 SaaS
-
-
 
 </td>
 <td valign="top">
 
 Custom Domains
 
-
-
 </td>
 <td valign="top">
 
 mysubdomain.custom-domains.cf.eu10.hana.ondemand.com
-
-
 
 </td>
 </tr>
@@ -93,44 +77,32 @@ mysubdomain.custom-domains.cf.eu10.hana.ondemand.com
 
 PaaS
 
-
-
 </td>
 <td valign="top">
 
 Cloud Foundry
-
-
 
 </td>
 <td valign="top">
 
 api.cf.eu10.hana.ondemand.com
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 SaaS
-
-
 
 </td>
 <td valign="top">
 
 Portal
 
-
-
 </td>
 <td valign="top">
 
 mysubdomain.cpp.cfapps.eu10-003.hana.ondemand.com
-
-
 
 </td>
 </tr>
@@ -139,21 +111,15 @@ mysubdomain.cpp.cfapps.eu10-003.hana.ondemand.com
 
 SaaS
 
-
-
 </td>
 <td valign="top">
 
 CPI
 
-
-
 </td>
 <td valign="top">
 
 mysubdomain.it-cpi4711-rt.cfapps.eu10-003.hana.ondemand.com
-
-
 
 </td>
 </tr>

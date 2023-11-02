@@ -67,21 +67,15 @@ The list of trusted certificates added are displayed and as long as they aren't 
 
 TLS Configurations
 
-
-
 </th>
 <th valign="top">
 
 TLS Protocol Version
 
-
-
 </th>
 <th valign="top">
 
 HTTP Protocol Version
-
-
 
 </th>
 </tr>
@@ -90,21 +84,15 @@ HTTP Protocol Version
 
 Created with the Cloud Foundry CLI plugin for custom domains
 
-
-
 </td>
 <td valign="top">
 
 1.2
 
-
-
 </td>
 <td valign="top">
 
 HTTP/1.1
-
-
 
 </td>
 </tr>
@@ -113,21 +101,15 @@ HTTP/1.1
 
 Created in the Custom Domain Manager
 
-
-
 </td>
 <td valign="top">
 
 1.2, 1.3
 
-
-
 </td>
 <td valign="top">
 
 HTTP/1.1, HTTP/2
-
-
 
 </td>
 </tr>

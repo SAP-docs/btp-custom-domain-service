@@ -13,28 +13,20 @@ Here you can find a list of the security events that are logged by the Custom Do
 
 Event grouping
 
-
-
 </th>
 <th valign="top">
 
 What events are logged
-
-
 
 </th>
 <th valign="top">
 
 How to identify related log events
 
-
-
 </th>
 <th valign="top">
 
 Additional information
-
-
 
 </th>
 </tr>
@@ -43,14 +35,10 @@ Additional information
 
 Service-related events
 
-
-
 </td>
 <td valign="top">
 
 Create a service instance
-
-
 
 </td>
 <td valign="top">
@@ -77,8 +65,6 @@ Create a service instance
 
 `\"success\":true,`
 
-
-
 </td>
 <td valign="top">
 
@@ -91,8 +77,6 @@ Create a service instance
 
 Delete a service instance
 
-
-
 </td>
 <td valign="top">
 
@@ -100,14 +84,10 @@ Delete a service instance
 
 ***Service *<ID\>* with plan *<ID\>* is being deprovisioned***
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -116,14 +96,10 @@ Delete a service instance
 
 Instance-related events
 
-
-
 </td>
 <td valign="top">
 
 Generate a new private and public key pair
-
-
 
 </td>
 <td valign="top">
@@ -149,8 +125,6 @@ Generate a new private and public key pair
 
  
 
-
-
 </td>
 </tr>
 <tr>
@@ -158,21 +132,15 @@ Generate a new private and public key pair
 
 Delete a private key
 
-
-
 </td>
 <td valign="top">
 
 ***Identity with alias *<KeyName\>* for domain *<name\>* deleted\\***
 
-
-
 </td>
 <td valign="top">
 
 Deleting the private key also deletes the public key.
-
-
 
 </td>
 </tr>
@@ -180,8 +148,6 @@ Deleting the private key also deletes the public key.
 <td valign="top">
 
 Activate a server certificate for a set of domains
-
-
 
 </td>
 <td valign="top">
@@ -206,16 +172,12 @@ Activate a server certificate for a set of domains
 
  
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Deactivate a certificate for a given domain
-
-
 
 </td>
 <td valign="top">
@@ -244,16 +206,12 @@ Deactivate a certificate for a given domain
 
  
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Enable client authentication for a domain
-
-
 
 </td>
 <td valign="top">
@@ -278,16 +236,12 @@ Enable client authentication for a domain
 
  
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Disable client authentication for a domain
-
-
 
 </td>
 <td valign="top">
@@ -310,16 +264,12 @@ Disable client authentication for a domain
 
  
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Upload a certificate and CA chain for a given key
-
-
 
 </td>
 <td valign="top">
@@ -341,8 +291,6 @@ Upload a certificate and CA chain for a given key
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>

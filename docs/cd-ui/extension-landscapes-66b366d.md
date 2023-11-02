@@ -19,21 +19,15 @@ Like a main landscape, all extension landscapes have their own load balancers, w
 
 Region
 
-
-
 </th>
 <th valign="top">
 
 Main Landscape
 
-
-
 </th>
 <th valign="top">
 
 Extension Landscape
-
-
 
 </th>
 </tr>
@@ -42,21 +36,15 @@ Extension Landscape
 
 EU10
 
-
-
 </td>
 <td valign="top" rowspan="3">
 
 api.cf.eu10.hana.ondemand.com
 
-
-
 </td>
 <td valign="top">
 
 api.cf.eu10-002.hana.ondemand.com
-
-
 
 </td>
 </tr>
@@ -65,16 +53,12 @@ api.cf.eu10-002.hana.ondemand.com
 
 api.cf.eu10-003.hana.ondemand.com
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 api.cf.eu10-004.hana.ondemand.com
-
-
 
 </td>
 </tr>
@@ -83,21 +67,15 @@ api.cf.eu10-004.hana.ondemand.com
 
 EU20
 
-
-
 </td>
 <td valign="top">
 
 api.cf.eu20.hana.ondemand.com
 
-
-
 </td>
 <td valign="top">
 
 api.cf.eu20-001.hana.ondemand.com
-
-
 
 </td>
 </tr>
@@ -106,21 +84,15 @@ api.cf.eu20-001.hana.ondemand.com
 
 US10
 
-
-
 </td>
 <td valign="top" rowspan="2">
 
 api.cf.us10.hana.ondemand.com
 
-
-
 </td>
 <td valign="top">
 
 api.cf.us10-001.hana.ondemand.com
-
-
 
 </td>
 </tr>
@@ -128,8 +100,6 @@ api.cf.us10-001.hana.ondemand.com
 <td valign="top">
 
 api.cf.us10-002.hana.ondemand.com
-
-
 
 </td>
 </tr>

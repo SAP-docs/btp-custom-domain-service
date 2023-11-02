@@ -62,14 +62,10 @@ Please use the following component for your incident:
 
 Component Name
 
-
-
 </th>
 <th valign="top">
 
 Component Description
-
-
 
 </th>
 </tr>
@@ -78,14 +74,10 @@ Component Description
 
 `BC-CP-CF-SEC-DOM` 
 
-
-
 </td>
 <td valign="top">
 
 Custom Domain Service \(in the Cloud Foundry environment\)
-
-
 
 </td>
 </tr>
