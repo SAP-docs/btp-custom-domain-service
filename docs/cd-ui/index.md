@@ -28,5 +28,7 @@
         -   [Decommissioning a Custom Domain Offered for Handover](decommissioning-a-custom-domain-offered-for-handover-be85266.md)
 -   [Auditing and Logging Information](auditing-and-logging-information-6d12171.md)
     -   [Certificate Expirations and TLS Ciphers](certificate-expirations-and-tls-ciphers-ed9343b.md)
+    -   [Alert Notifications](alert-notifications-fcb997f.md)
+        -   [Get Alert Notifications](get-alert-notifications-a627a5e.md)
 -   [Monitoring and Troubleshooting](monitoring-and-troubleshooting-1edcaf6.md)
 
