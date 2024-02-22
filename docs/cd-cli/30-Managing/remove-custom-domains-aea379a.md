@@ -78,5 +78,5 @@ Deactivate the custom domains that you want to remove: [Deactivate Custom Domain
 
 [Deactivate Custom Domains](deactivate-custom-domains-b43e502.md "Use the Cloud Foundry CLI to deactivate custom domains that you temporarily no longer want to use. As a result, a secure connection to applications that use those custom domains can be established only on their default domain.")
 
- <?sap-ot O2O class="- topic/link " href="ecd0be5edf7d4433ba8240d6cb6e6f02.xml" text="" desc="" xtrc="link:2" xtrf="file:/home/builder/src/dita-all/vyq1673437738455/loio2f6dcdf82b7a4ed0beb130bcb3b77ffc_en-US/src/content/localization/en-us/aea379ad5ac6466e8c6603b799e04e2b.xml" ?> 
+ <?sap-ot O2O class="- topic/link " href="ecd0be5edf7d4433ba8240d6cb6e6f02.xml" text="" desc="" xtrc="link:2" xtrf="file:/home/builder/src/dita-all/vyq1673437738455/loio2f6dcdf82b7a4ed0beb130bcb3b77ffc_en-US/src/content/localization/en-us/aea379ad5ac6466e8c6603b799e04e2b.xml" output-class="" outputTopicFile="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> 
 

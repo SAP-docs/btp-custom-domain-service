@@ -102,7 +102,7 @@ Portal
 </td>
 <td valign="top">
 
-mysubdomain.cpp.cfapps.eu10-003.hana.ondemand.com
+mysubdomain.cpp.cfapps.eu10.hana.ondemand.com
 
 </td>
 </tr>

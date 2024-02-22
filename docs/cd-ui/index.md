@@ -5,6 +5,7 @@
     -   [Initial Setup](10-Initial/initial-setup-1deab96.md)
     -   [Prerequisites](10-Initial/prerequisites-b791984.md)
         -   [Required Authorizations](10-Initial/required-authorizations-28a637b.md)
+        -   [Custom Quota and License Calculation](10-Initial/custom-quota-and-license-calculation-338a39a.md)
     -   [Accessibility Features in Custom Domain](10-Initial/accessibility-features-in-custom-domain-c4f872c.md)
 -   [Configuring Custom Domains](20-Configuration/configuring-custom-domains-1fbba52.md)
     -   [Create Custom Domains with TLS/SSL Server Authentication](20-Configuration/create-custom-domains-with-tls-ssl-server-authentication-fa4e0f0.md)
