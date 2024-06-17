@@ -50,6 +50,12 @@ Create your configurations.
 
 11. Copy your trusted certificates list into the *Add PEM* text box and choose *Submit*.
 
+    > ### Restriction:  
+    > The number of trusted CA certificates per TLS configuration must not exceed 128 certificates.
+    > 
+    > The total size of all the trusted CA certificates per TLS configuration must not exceed 256 KB.
+
+
 
 
 <a name="loioe696d4548d3a40dbbf8b9868e8b4af53__result_kbn_vhr_qpb"/>
@@ -131,4 +137,18 @@ When working with the Cloud Foundry CLI plugin for custom domains, a default TLS
 
 
 If a legacy TLS configuration is used for a server certificate activation, it must be converted into a standard TLS configuration. The activation wizard will then ask you for a new name.
+
+<a name="reference_ofm_vr2_sbc"/>
+
+<!-- reference\_ofm\_vr2\_sbc -->
+
+## Client Certificate Authentication \(Mutual TLS\)
+
+Client certificate authentication, or mutual TLS \(mTLS\) can be optionally or mandatorily turned on for a custom domain.
+
+
+
+In addition to the TLS configuration and the TLS handshake procedure that is performed by the BTP Cloud Foundry load balancer, your called application should consider additional hardening and client mapping procedures.
+
+For more information, see SAP Note [3472521](https://me.sap.com/notes/3472521) \(Client Certificate Authentication \(mTLS\) in SAP BTP, Cloud Foundry Runtime\).
 
