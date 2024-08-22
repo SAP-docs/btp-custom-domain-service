@@ -51,9 +51,9 @@ Create your configurations.
 11. Copy your trusted certificates list into the *Add PEM* text box and choose *Submit*.
 
     > ### Restriction:  
-    > The number of trusted CA certificates per TLS configuration must not exceed 128 certificates.
+    > The number of trusted CA certificates per TLS configuration must not exceed 256 certificates.
     > 
-    > The total size of all the trusted CA certificates per TLS configuration must not exceed 256 KB.
+    > The total size of all the trusted CA certificates per TLS configuration must not exceed 512 KB.
 
 
 

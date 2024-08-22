@@ -70,14 +70,7 @@ To make sure that a secure connection to your applications is maintained, use a 
 
 -   The quota assigned to you can be used in multiple subaccounts. The Custom Domain Manager counts only the activated certificates, and each activated certificate can have multiple Subject Alternative Names \(SANs\), with different statuses. As a result, even with just one quota, you can manage different custom domains.
 
--   The accounting of the total global quota assigned to you depends on whether your service instance is running on the cloud management tools in [feature set A or B](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/caf4e4e23aef4666ad8f125af393dfb2.html).
-
-    In feature set A, your total global quota is the sum total of all the subaccounts or Cloud Foundry organizations that you own.
-
-    > ### Example:  
-    > If your global quota is 10 and you have 3 subaccounts, then your total global quota is 30 \(10 for each subaccount\).
-
-    In feature set B, your total global quota accounts for the sum total of all the subaccounts or Cloud Foundry organizations that you own.
+-   Your total global quota accounts for the sum total of all the subaccounts or Cloud Foundry organizations that you own.
 
     > ### Example:  
     > If your global quota is 10 and you have three subaccounts, then your total global quota of 10 has to be distributed among the three subaccounts.
