@@ -24,27 +24,33 @@ For more information about selected platform incidents, see [Root Cause Analysis
 
 
 
-### Check Guided Answers
+### Check Solutions
 
-In the SAP Support Portal, check the [Guided Answers](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393) for the Custom Domain Service.
+Use the solutions listed under this topic to find information about how to resolve issues that might occur when using the Custom Domain Service. Be aware that some processes during the creation of a custom domain can take until the next day; for example, activating an uploaded certificate or enabling client authentication. Make sure that you've waited the appropriate amount of time before investigating or creating a ticket.
 
 We also recommend that you regularly check the SAP Notes and Knowledge Base for component `BC-CP-CF-SEC-DOM` in the [SAP Support Portal](https://support.sap.com/en/index.html). These contain information about program corrections and provide additional information.
 
-Here you can find a list of error messages that will lead you to a solution in the guided answers format:
+If you encounter an error because your custom domain is missing from the `redirect-uris` parameter of the application's security descriptor file, refer to the following solution.
 
--   [Service offering INFRA not found](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393:32394)
+-   [The redirect_uri has an invalid domain](https://help.sap.com/viewer/6f35a23466ee4df0b19085c9c52f9c29/Cloud/en-US/e09b325cad9b4c65ac96cda71c775543.html "") :arrow_upper_right:
 
--   '['custom-domain-<command\>' is not a registered command. See 'cf help -a](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393:34875)
 
--   [Organization not found in Custom Domain Certificates registry: You have to create an instance of service INFRA first.](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393:34860)
 
--   [Domain is not registered for this ORG](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393:34862)
 
--   [Quota limit for specified service plan has exceeded: Please contact service administrator](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393:34863)
+### Copy Support Information
 
--   [Certificates are invalid: Make sure that you provide the complete certificate chain.](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393:36070)
+When reporting an incident or error, it helps to have all the required information such as the global account ID, subaccount ID, subdomain, and any other important details handy.
 
--   [Key does not exist](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393:38644)
+1.  After logging on to the Custom Domain Manager by entering your credentials, on the *Home* screen, click your name on the top-right corner to select *User Information*.
+
+    The popup window displayed contains all the required information.
+
+2.  Click *Copy Support Information* to copy the details to the clipboard.
+
+    You can now paste the information where desired.
+
+    > ### Note:  
+    > For data privacy reasons, the user details are not copied.
 
 
 
@@ -91,13 +97,11 @@ When submitting the incident, we recommend including the following information:
 
 -   The steps or clicks used to replicate the error
 
--   Screenshots, videos, or the code entered
+-   Screenshots, videos, or the text entered
 
 
 **Related Information**  
 
 
 [Getting Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/5dd739823b824b539eee47b7860a00be.html "To get assistance, use the available support channels provided by SAP for Me.") :arrow_upper_right:
-
-[Custom Domain service guided answers](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393)
 

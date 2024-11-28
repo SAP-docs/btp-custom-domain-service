@@ -32,4 +32,12 @@
     -   [Alert Notifications](alert-notifications-fcb997f.md)
         -   [Get Alert Notifications](get-alert-notifications-a627a5e.md)
 -   [Monitoring and Troubleshooting](monitoring-and-troubleshooting-1edcaf6.md)
+    -   [Service Offering INFRA not Found](service-offering-infra-not-found-3e5a26b.md)
+    -   ['custom-domain-<command\>' is not a Registered Command](custom-domain-command-is-not-a-registered-command-e5a18d6.md)
+    -   [Organization not Found in Custom Domain Certificates Registry: You Have to Create an Instance of Service INFRA First](organization-not-found-in-custom-domain-certificates-registry-you-have-to-create-an-insta-0ada62e.md)
+    -   [Domain is not Registered for This ORG](domain-is-not-registered-for-this-org-bb8c001.md)
+    -   [Quota Limit for Specified Service Plan has Exceeded](quota-limit-for-specified-service-plan-has-exceeded-cb95357.md)
+    -   [Certificates are Invalid: Make Sure that you Provide the Complete Certificate Chain](certificates-are-invalid-make-sure-that-you-provide-the-complete-certificate-chain-422daa8.md)
+    -   [Key Does not Exist](key-does-not-exist-d9f2242.md)
+    -   [The redirect\_uri has an invalid domain](the-redirect-uri-has-an-invalid-domain-e09b325.md)
 

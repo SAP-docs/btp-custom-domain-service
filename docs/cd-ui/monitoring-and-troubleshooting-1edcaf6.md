@@ -24,15 +24,15 @@ For more information about selected platform incidents, see [Root Cause Analysis
 
 
 
-### Check Guided Answers
+### Check Solutions
 
-In the SAP Support Portal, check the [Guided Answers](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393) for the Custom Domain Service.
+Use the solutions listed under this topic to find information about how to resolve issues that might occur when using the Custom Domain Service. Be aware that some processes during the creation of a custom domain can take until the next day; for example, activating an uploaded certificate or enabling client authentication. Make sure that you've waited the appropriate amount of time before investigating or creating a ticket.
 
 We also recommend that you regularly check the SAP Notes and Knowledge Base for component `BC-CP-CF-SEC-DOM` in the [SAP Support Portal](https://support.sap.com/en/index.html). These contain information about program corrections and provide additional information.
 
-If you encounter an error because your custom domain is missing from the `redirect-uris` parameter of the application's security descriptor file, refer to the following solution in the guided answers format.
+If you encounter an error because your custom domain is missing from the `redirect-uris` parameter of the application's security descriptor file, refer to the following solution.
 
--   [The redirect\_uri has an invalid domain](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393:44353)
+-   [The redirect\_uri has an invalid domain](the-redirect-uri-has-an-invalid-domain-e09b325.md)
 
 
 
