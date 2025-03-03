@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "btp-custom-domain-service"
+SPDX-PackageSupplier = "Prasita Sankar (prasita.sankar@sap.com)"
+SPDX-PackageDownloadLocation = "https://github.com/sap-docs/btp-custom-domain-service"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2022-2023 SAP SE or an SAP affiliate company and sap-docs/btp-custom-domain-service contributors"
+SPDX-License-Identifier = "CC-BY-4.0"
