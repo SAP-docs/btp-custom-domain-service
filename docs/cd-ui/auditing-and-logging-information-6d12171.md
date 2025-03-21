@@ -296,6 +296,16 @@ Upload a certificate and CA chain for a given key
 </tr>
 </table>
 
+
+
+<a name="loio6d121719db98496c9e34b116e2118ab6__section_xwh_nwc_r2c"/>
+
+## Sending Configuration Data to SAP Cloud ALM
+
+To fulfill security requirements, Custom Domain Manager sends user configurations in a standardised format to SAP Cloud ALM. SAP Cloud ALM is an offering for application lifecycle management \(ALM\). It’s intended for customers who use solutions provided by SAP, and who do not want to use their own ALM on-premise platform to manage those solutions.
+
+For more information, see [Configuration & Security Analysis - Content](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/configuration-security-analysis/csa-content.html).
+
 **Related Information**  
 
 
