@@ -79,5 +79,3 @@ You have now created a service instance for custom domains.
 
 [Create Service Instances Using the Cockpit](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/5516f912bae84922ba8c8eb46b8bfce5.html "") :arrow_upper_right:
 
-[Cloud Management Tools — Feature Set Overview](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/caf4e4e23aef4666ad8f125af393dfb2.html "Cloud management tools represent the group of technologies designed for managing SAP BTP.") :arrow_upper_right:
-

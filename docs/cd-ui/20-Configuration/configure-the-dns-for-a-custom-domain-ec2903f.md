@@ -2,7 +2,7 @@
 
 # Configure the DNS for a Custom Domain
 
-To route traffic to an application on your custom domain, you must also configure the Domain Name System \(DNS\) that you use. **However, as a customer, you also have the choice to run under SAP's standard domain as a subdomain. In such cases, your own DNS records are not required.**
+To route traffic to an application on your custom domain, you must also configure the Domain Name System \(DNS\) that you use.
 
 
 

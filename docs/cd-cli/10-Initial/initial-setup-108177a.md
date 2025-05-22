@@ -20,8 +20,3 @@ To use the Custom Domain service, you have to complete some initial steps. Also,
 4.  Check the [Prerequisites](prerequisites-48cdbe7.md) section; see the related link for more information.
 
 
-**Related Information**  
-
-
-[Cloud Management Tools — Feature Set Overview](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/caf4e4e23aef4666ad8f125af393dfb2.html "Cloud management tools represent the group of technologies designed for managing SAP BTP.") :arrow_upper_right:
-
