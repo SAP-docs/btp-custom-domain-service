@@ -6,7 +6,7 @@ This section provides information on the initial setup of the Custom Domain Mana
 
 To use the Custom Domain Manager, you have to complete some initial steps. Also, take a good look at the [Prerequisites](prerequisites-b791984.md) section.
 
-1.  Make sure that the Custom Domain Manager is entitled to your subaccount; see [Managing Entitlements and Quotas Using the Cockpit](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/c8248745dde24afb91479361de336111.html "When you purchase an enterprise account, you are entitled to use a specific set of resources, such as the amount of memory that can be allocated to your applications.") :arrow_upper_right: for more information.
+1.  Make sure that the Custom Domain Manager is entitled to your subaccount; see [Managing Entitlements and Quotas Using the Cockpit](https://help.sap.com/docs/btp/sap-business-technology-platform/managing-entitlements-and-quotas-using-cockpit?version=Cloud) for more information.
 
 2.  Subscribe to the Custom Domain Manager by using the SAP BTP cockpit in the *Instances and Subscriptions* tab of your subaccount.
 
