@@ -12,6 +12,7 @@
         -   [Configure the DNS for a Custom Domain](20-Configuration/configure-the-dns-for-a-custom-domain-ec2903f.md)
     -   [Manage Reserved and Custom Domains](20-Configuration/manage-reserved-and-custom-domains-25ec7ea.md)
     -   [Manage SaaS Routes](20-Configuration/manage-saas-routes-7ad1e85.md)
+        -   [SaaS Applications with SAP Identity Service-Based User Authentication](20-Configuration/saas-applications-with-sap-identity-service-based-user-authentication-c22c29a.md)
     -   [Manage TLS Configurations](20-Configuration/manage-tls-configurations-e696d45.md)
     -   [Manage Server Certificates](20-Configuration/manage-server-certificates-1c4cbe6.md)
         -   [Update Server Certificates](20-Configuration/update-server-certificates-3d39403.md)
