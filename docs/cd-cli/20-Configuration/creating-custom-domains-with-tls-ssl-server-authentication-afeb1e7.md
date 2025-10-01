@@ -42,7 +42,7 @@ The whole custom domain configuration process is as follows:
 **Related Information**  
 
 
-[Extended Cloud Foundry Commands of Custom Domains](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/4333dc97ea0d42bd8fe13eebd4382a9b.html "The Custom Domain plugin includes commands that you can use to configure and manage your custom domains.") :arrow_upper_right:
+[Extended Cloud Foundry Commands of Custom Domains](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4333dc97ea0d42bd8fe13eebd4382a9b.html "The Custom Domain plugin includes commands that you can use to configure and manage your custom domains.") :arrow_upper_right:
 
 [Learn more about roles and permissions in the Cloud Foundry environment](https://docs.cloudfoundry.org/concepts/roles.html#roles)
 
