@@ -31,7 +31,7 @@ Although these domains are not listed other than in the subaccounts in which the
 
 1.  Log on to the Custom Domain Manager by entering your credentials.
 
-2.  Create your custom domains:
+2.  Create your custom domains.
 
     1.  Choose the *Domains* tile.
 
@@ -47,39 +47,28 @@ Although these domains are not listed other than in the subaccounts in which the
     4.  Switch to the *Custom Domains* tab.
 
 
-    -   If you're a PaaS customer with your own Cloud Foundry organization, choose *Create Custom Domain* and select *for your Subaccount's CF Organization*. The wizard first displays the landscape or region corresponding to your Cloud Foundry organization.
-        1.  Choose *Next Step*.
+3.  Select the deployment type for your custom domain.
 
-        2.  Select the desired domain from the list of reserved domains and choose *Next Step*.
+    1.  Choose *Create*.
 
-            You can select either the shared standard domain of your PaaS landscape or one of the top-level domains that you have reserved for the region.
+    2.  Next, choose the target environment. Decide for PaaS or SaaS; and then accordingly choose *PaaS \(Cloud Foundry\)* \(usually, chosen by default\) or *SaaS Subscriptions*.
 
-        3.  Enter a subdomain name to be created as your custom domain and choose *Finish*.
+        If you want to use a different subaccount, deselecting this check box displays the *Tenant ID* text field, in which you can enter the ID of the desired subaccount.
 
-            > ### Restriction:  
-            > This is mandatory for the shared standard domain.
+        > ### Note:  
+        > The target subaccount must also be subscribed to Custom Domain Manager.
 
-            > ### Example:  
-            > applications.example.com
+    3.  Select the desired domain from the list of reserved domains and choose *Next Step*.
 
-            Alternatively, leave the text field empty to use your own reserved domain as the custom domain.
+    4.  Enter a subdomain name to be created as your custom domain and choose *Next Step*.
 
+    5.  Check the details on the *Summary* pane and choose *Finish*.
 
-    -   If you're a SaaS customer who subscribes to a Saas application, choose *Create Custom Domain* and select *for your Subaccount's SaaS Subscription*. The wizard first displays your subscribed applications, in their corresponding landscapes.
-        1.  Select the desired SaaS application and choose *Next Step*.
+        > ### Restriction:  
+        > This is mandatory for the shared standard domain.
 
-        2.  Select the desired domain from the list of reserved domains and choose *Next Step*.
-
-        3.  Enter a subdomain name and choose *Finish*.
-
-            > ### Restriction:  
-            > This is mandatory for the shared standard domain.
-
-            > ### Example:  
-            > applications.example.com
-
-            Alternatively, leave the text field empty to use your own reserved domain as the custom domain.
-
+        > ### Example:  
+        > applications.example.com
 
 
 
@@ -102,10 +91,12 @@ To delete unused reserved and custom domains, choose :wastebasket:\(Delete\).
 
 ## Next Steps
 
-Use the *Domain Handover* tab to hand over custom domains to other subaccounts, or to accept custom domains offered by other subaccounts and add them to your own custom domains. A handover can be done only between main and extension landscapes. No certificates are copied or moved. No DNS operations are performed. See [Extension Landscapes](../extension-landscapes-66b366d.md) for more information.
+Choose a custom domain to open its details to view further *Domain Information*; for instance, a DNS CNAME record recommendation. Create a DNS CNAME for your custom domain or your custom super domain with or without wildcards, but with the recommended value as the target value.
+
+Use the *Reserved Domain* tab and the *Access Control List* to share a reserved domain with another subaccount. See [Sharing Reserved Domains](sharing-reserved-domains-8eef342.md) for more details.
 
 **Related Information**  
 
 
-[What Is Custom Domain](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Cloud/en-US/4414cc43db2d4229b27b232a5590e253.html "Configure and expose your application under your own domain.") :arrow_upper_right:
+[What Is Custom Domain](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Validation/en-US/4414cc43db2d4229b27b232a5590e253.html "Configure and expose your application under your own domain.") :arrow_upper_right:
 

@@ -24,6 +24,6 @@ To use the Custom Domain Manager, you have to complete some initial steps. Also,
 
 5.  Once you have subscribed, select *Go to Application* to open the Custom Domain Manager and log in there.
 
-6.  Check the [Prerequisites](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Cloud/en-US/48cdbe7a64f3475586dc2f4d11c5603c.html "Before configuring custom domains, you have to make some preliminary steps and fulfill a number of prerequisites.") :arrow_upper_right: section; see the related link for more information.
+6.  Check the [Prerequisites](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Validation/en-US/48cdbe7a64f3475586dc2f4d11c5603c.html "Before configuring custom domains, you have to make some preliminary steps and fulfill a number of prerequisites.") :arrow_upper_right: section; see the related link for more information.
 
 

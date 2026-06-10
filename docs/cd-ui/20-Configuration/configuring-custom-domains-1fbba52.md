@@ -21,7 +21,7 @@ To make sure that your domain is trusted by way of activated server certificates
 
 4.  [Manage TLS Configurations](manage-tls-configurations-e696d45.md)
 
-5.  [Manage Server Certificates](manage-server-certificates-1c4cbe6.md)
+5.  [Manage Server Identities](manage-server-identities-1c4cbe6.md)
 
 6.  [Test the Custom Domain](test-the-custom-domain-bbeaa2d.md)
 

@@ -8,7 +8,7 @@ Updating an existing and activated server certificate requires a new private key
 
 ## Procedure
 
-1.  Create a new server certificate CSR with the very same Common Name and Subject Alternative Names.
+1.  In the *Server Identities* tile, choose *Add* to create a new server certificate CSR with the very same Common Name and Subject Alternative Names.
 
 2.  Get a new certificate from the same or a different trust center CA.
 
@@ -23,5 +23,11 @@ Updating an existing and activated server certificate requires a new private key
 
 ## Results
 
-Such an activation will automatically deactivate the current server certificate.
+Such an activation automatically deactivates the current server certificate. In case of problems with the new one, you can still switch back and forth between the two server certificates of the server identity. However, once the new certificate should remain, the old one needs to be deleted to be prepared for the next replacement.
+
+
+
+## Next Steps
+
+Manual certificate lifecycle management is not recommended. Read more about [Automated Server Certificate Rotation](automated-server-certificate-rotation-5e983f4.md) by using the Custom Domain Manager REST API.
 

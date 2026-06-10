@@ -98,7 +98,7 @@ Created with the Cloud Foundry CLI plugin for custom domains
 </td>
 <td valign="top">
 
-HTTP/1.1
+HTTP/1.0, HTTP/1.1
 
 </td>
 </tr>
@@ -115,7 +115,7 @@ Created in the Custom Domain Manager
 </td>
 <td valign="top">
 
-HTTP/1.1, HTTP/2
+HTTP/1.0, HTTP/1.1, HTTP/2
 
 </td>
 </tr>

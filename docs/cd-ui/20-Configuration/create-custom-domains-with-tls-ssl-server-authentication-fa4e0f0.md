@@ -10,7 +10,7 @@ Using custom domains with server authentication lets you establish secure commun
 
 ## Prerequisites
 
-There are several prerequisites for creating custom domains. See [Prerequisites](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Cloud/en-US/48cdbe7a64f3475586dc2f4d11c5603c.html "Before configuring custom domains, you have to make some preliminary steps and fulfill a number of prerequisites.") :arrow_upper_right: for additional information.
+There are several prerequisites for creating custom domains. See [Prerequisites](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Validation/en-US/48cdbe7a64f3475586dc2f4d11c5603c.html "Before configuring custom domains, you have to make some preliminary steps and fulfill a number of prerequisites.") :arrow_upper_right: for additional information.
 
 
 
@@ -39,7 +39,7 @@ The whole custom domain configuration process is as follows:
 
 4.  [Manage TLS Configurations](manage-tls-configurations-e696d45.md)
 
-5.  [Manage Server Certificates](manage-server-certificates-1c4cbe6.md)
+5.  [Manage Server Identities](manage-server-identities-1c4cbe6.md)
 
 6.  [Test the Custom Domain](test-the-custom-domain-bbeaa2d.md)
 

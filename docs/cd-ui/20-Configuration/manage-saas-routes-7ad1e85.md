@@ -10,7 +10,7 @@ Use the Custom Domain Manager to select your existing SaaS subscriptions and cre
 
 ## Prerequisites
 
--   Make sure that you’ve done the previous steps of the [Creating Custom Domains with TLS/SSL Server Authentication](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Cloud/en-US/afeb1e77fc2f4365803049e9407449eb.html "Using custom domains with server authentication lets you establish secure communication between clients and your application.") :arrow_upper_right: process.
+-   Make sure that you’ve done the previous steps of the [Creating Custom Domains with TLS/SSL Server Authentication](https://help.sap.com/viewer/74af813c7ee2457cb5eddca0cc70a0c1/Validation/en-US/afeb1e77fc2f4365803049e9407449eb.html "Using custom domains with server authentication lets you establish secure communication between clients and your application.") :arrow_upper_right: process.
 
     > ### Note:  
     > For PaaS: Create and deploy an application within the Cloud Foundry environment. For more information on deploying an app, see the related link.
@@ -47,6 +47,10 @@ Map the application to your custom domain.
     -   If you want to stay with the current subaccount that you are using, select the *Continue with current tenant ID* check box.
 
     -   If you want to use a different subaccount, deselecting this check box displays the *Tenant ID* text field, in which you can enter the ID of the desired subaccount.
+
+        > ### Note:  
+        > The target subaccount must also be subscribed to Custom Domain Manager.
+
 
 4.  Select the SaaS subscription for which you want to map the route and choose *Next Step*.
 
@@ -86,8 +90,14 @@ The custom routes are created and displayed in a list.
 
 An active status for a route signifues that a certificate has been activated for the given domain. However, you can still delete that route and create a new one, if desired.
 
+
+
+## Next Steps
+
+Open the details pane of the *SaaS Routes* to get further route information; for instance, a DNS CNAME record recommendation. Create a DNS CNAME for your custom domain or your custom super domain with or without wildcards, but with the recommended value as the target value.
+
 **Related Information**  
 
 
-[Deploy Business Applications in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4946ea5421374924963ce8575a5f3d05.html "When an application for the Cloud Foundry environment resides in a folder on your local machine, you can deploy it and start it by executing the command line interface (CLI) command push. To deploy business applications bundled in a multitarget application archive, you have to use the command deploy-mta.") :arrow_upper_right:
+[Deploy Business Applications in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/4946ea5421374924963ce8575a5f3d05.html "When an application for the Cloud Foundry environment resides in a folder on your local machine, you can deploy it and start it by executing the command line interface (CLI) command push. To deploy business applications bundled in a multitarget application archive, you have to use the command deploy-mta.") :arrow_upper_right:
 
